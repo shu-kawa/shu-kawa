@@ -1,4 +1,4 @@
-<h3 align="left">Studying Languages and Tools:</h3>
+# Studying Languages and Tools:
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
   </a>
@@ -22,3 +22,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40" /> </a>
 </p>
 by <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">github-profile-summary-cards</a>
+<hr>
+
+# Qualification:
+- 2023/05
+    - AWS Solutions Architect - Associate
+- 2022/07
+    - AWS Cloud Practitioner - Foundational
