@@ -25,6 +25,8 @@ by <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">github-p
 <hr>
 
 # Qualification:
+- 2023/12
+    - AWS Developer - Associate
 - 2023/05
     - AWS Solutions Architect - Associate
 - 2022/07
